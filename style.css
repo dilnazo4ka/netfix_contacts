@@ -1,0 +1,14 @@
+.container-fluid{
+    font-family: Raleway;
+}
+.card{
+    font-family: Raleway;
+}
+.container{
+    font-family: Raleway;
+}
+.card:hover {
+    box-shadow: 20px 20px 80px -44px #000000;
+    transition: .5s ease-in-out;
+    cursor: pointer;
+}
